@@ -1,0 +1,36 @@
+<component name="libraryTable">
+  <library name="xmlschema-core-2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/xmlschema-core-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/wsdl4j-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/woodstox-core-asl-4.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/stax2-api-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/spring-web-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/spring-jdbc-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/spring-tx-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/spring-expression-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/spring-core-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/spring-context-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/spring-beans-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/spring-aspects-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/spring-aop-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/slf4j-log4j12-1.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/slf4j-api-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/neethi-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.0.8-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jaxb-impl-2.2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/geronimo-stax-api_1.0_spec-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jaxb-api-2.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/geronimo-javamail_1.4_spec-1.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/geronimo-annotation_1.0_spec-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/geronimo-activation_1.1_spec-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/cxf-2.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/com.springsource.org.aopalliance-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
